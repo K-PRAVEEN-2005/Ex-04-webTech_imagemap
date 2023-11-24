@@ -1,6 +1,10 @@
 # Places Around Me
+```
 name:praveen k
+```
+```
 refrence no:23014148
+```
 department:Artificial intellegence and data science
 # Aim:
 Tp develop a website to displayabout the places around my house
