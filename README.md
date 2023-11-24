@@ -1,4 +1,7 @@
 # Places Around Me
+name:praveen k
+refrence no:23014148
+department:Artificial intellegence and data science
 # Aim:
 Tp develop a website to displayabout the places around my house
 To develop a website to display details about the places around my house.
@@ -128,12 +131,13 @@ run the program
 ```
 
 # Output:
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
-![Alt text](<ex 679.jpg>)
-![Alt text](image-3.png)
- ![Alt text](image-6.png)
- 
+ ![ex 6](https://github.com/K-PRAVEEN-2005/Ex-04-webTech_imagemap/assets/145742724/c62f5a7c-4524-4557-b94a-66774ef2645e)
+ ![ex8y665](https://github.com/K-PRAVEEN-2005/Ex-04-webTech_imagemap/assets/145742724/8049e04a-e7ef-4a57-90e2-0867dd01e0d7)
+![ex 6 y](https://github.com/K-PRAVEEN-2005/Ex-04-webTech_imagemap/assets/145742724/19d965f7-07de-4596-bf18-0b8537965497)
+![ex 679](https://github.com/K-PRAVEEN-2005/Ex-04-webTech_imagemap/assets/145742724/7ea29319-ac97-440a-acd1-e7beba5e6252)
+![ex5689](https://github.com/K-PRAVEEN-2005/Ex-04-webTech_imagemap/assets/145742724/263a53c7-3f34-444e-96d5-594874a0e8ce)
+![ex 67](https://github.com/K-PRAVEEN-2005/Ex-04-webTech_imagemap/assets/145742724/f67b82f8-5fa5-4cde-b97b-24573fbd8d9f)
+
+
 # Result:
 
